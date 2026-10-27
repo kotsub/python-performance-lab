@@ -1,0 +1,14 @@
+{
+  "created_at_utc": "2026-10-27T15:36:05.459923+00:00",
+  "python": "3.12.14",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "rows": 100000,
+  "customers": 10000,
+  "requests": 100,
+  "repeats": 5,
+  "seed": 42,
+  "result_sha256": "18ab89e36d38cb538ecc2729b9b097fe0389e13a31cd2a3d2ea70db5e1d9887d",
+  "warmup_runs_per_method": 1,
+  "timing_includes_index_build": true,
+  "container_cpu_max": "800000 100000"
+}

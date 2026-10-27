@@ -1,0 +1,17 @@
+{
+  "methods": {
+    "scan": {
+      "median_wall_ms": 187.138116,
+      "min_wall_ms": 179.888264,
+      "max_wall_ms": 190.999299,
+      "peak_traced_bytes": 4188
+    },
+    "indexed": {
+      "median_wall_ms": 10.280442,
+      "min_wall_ms": 9.102797,
+      "max_wall_ms": 10.477188,
+      "peak_traced_bytes": 617088
+    }
+  },
+  "speedup": 18.203314215478283
+}
